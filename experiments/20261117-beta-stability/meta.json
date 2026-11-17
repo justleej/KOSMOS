@@ -1,0 +1,8 @@
+{
+ "id": "20261117-beta-stability",
+ "author": "justleej",
+ "date": "2026-11-17",
+ "question": "β*가 문항을 바꿔 뽑았을 때 얼마나 흔들리고, 흔들린 β*를 쓰면 validation TVD가 실제로 얼마나 나빠지는가?",
+ "status": "진행",
+ "conclusion": ""
+}
