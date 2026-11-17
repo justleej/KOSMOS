@@ -3,6 +3,6 @@
  "author": "justleej",
  "date": "2026-11-17",
  "question": "β*가 문항을 바꿔 뽑았을 때 얼마나 흔들리고, 흔들린 β*를 쓰면 validation TVD가 실제로 얼마나 나빠지는가?",
- "status": "진행",
- "conclusion": ""
+ "status": "완료",
+ "conclusion": "β* 95% 구간 폭 0.05~0.095(9개 모두 기준 이내). validation 후회는 7/9가 0.005 미만, 초과는 c0의 EXAONE·DeepSeek. EXAONE vs DeepSeek 순서는 c0·L0에서 불안정"
 }

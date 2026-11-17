@@ -1,0 +1,28 @@
+{
+ "params": {
+  "B": 1000,
+  "seed": 20261117,
+  "tol": 0.005,
+  "width_max": 0.1,
+  "regret_max": 0.005,
+  "order_min": 0.95,
+  "n_cal": 148,
+  "n_val": 49
+ },
+ "tables": [
+  "beta_ci",
+  "draws",
+  "order",
+  "val_regret"
+ ],
+ "notes": "",
+ "include_test": false,
+ "time": "2026-11-17T23:52:46",
+ "git_commit": "9a28b5d",
+ "git_dirty": false,
+ "data_sha256": "eff54b43fe0cacc1",
+ "data_built_at": "2026-11-15T14:37:21",
+ "python": "3.14.7",
+ "pandas": "3.1.1",
+ "numpy": "2.5.5"
+}

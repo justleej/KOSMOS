@@ -1,0 +1,10 @@
+,level,a,b,point_a,point_b,share_same_order,share_tie,h3_ok
+0,c0,exaone,deepseek,0.32,0.315,0.53,0.107,False
+1,c0,exaone,haiku,0.32,0.24,1,0,True
+2,c0,deepseek,haiku,0.315,0.24,0.999,0.001,True
+3,L0,exaone,deepseek,0.355,0.315,0.945,0.02,False
+4,L0,exaone,haiku,0.355,0.245,1,0,True
+5,L0,deepseek,haiku,0.315,0.245,1,0,True
+6,L1,exaone,deepseek,0.37,0.31,0.997,0.003,True
+7,L1,exaone,haiku,0.37,0.25,1,0,True
+8,L1,deepseek,haiku,0.31,0.25,0.999,0.001,True
